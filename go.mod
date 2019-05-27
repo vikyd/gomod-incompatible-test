@@ -1,3 +1,3 @@
-module github.com/gomod-incompatible-test
+module github.com/vikyd/gomod-incompatible-test
 
 go 1.12
