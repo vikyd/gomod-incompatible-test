@@ -1,0 +1,1 @@
+# Golang modules incompatible test
